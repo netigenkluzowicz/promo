@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "perfect-metronome",
+      "android": "pl.netigen.perfect.metronome",
+      "icon": "https://play-lh.googleusercontent.com/APr-3M8zgAZbTMNwcsCRwLBmE9Vq1lZoTF16RlsnoUIcA7LV1Rudu71kjQ85wxYoYIbItOYpshWPKNuKjZLOBw=w128-h128",
+      "name": {
+        "en": "Perfect Simple Metronome",
+        "pl": "Perfect Simple Metronome"
+      },
+      "text": {
+        "en": "Steady rhythm for jump rope and warm-ups.",
+        "pl": "Rytm do skakanki i rozgrzewki.",
+        "de": "Gleichmäßiger Rhythmus fürs Seilspringen und Aufwärmen.",
+        "fr": "Un rythme régulier pour la corde à sauter et l’échauffement.",
+        "es": "Ritmo constante para saltar la cuerda y calentar.",
+        "it": "Ritmo costante per la corda e il riscaldamento.",
+        "pt_BR": "Ritmo constante para pular corda e aquecer.",
+        "nl": "Vast ritme voor touwtjespringen en warming-up.",
+        "tr": "İp atlama ve ısınma için sabit ritim.",
+        "id": "Ritme stabil untuk lompat tali dan pemanasan.",
+        "vi": "Nhịp đều cho nhảy dây và khởi động.",
+        "ja": "縄跳びとウォーミングアップに安定したリズムを。",
+        "ko": "줄넘기와 워밍업을 위한 일정한 리듬.",
+        "uk": "Рівний ритм для скакалки та розминки."
+      },
+      "weight": 1,
+      "exclude": []
+    }
+  ]
+}
